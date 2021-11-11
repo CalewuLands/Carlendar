@@ -1,5 +1,5 @@
 import calendar
-# Write code by Calewuga
+# Write code by jaezerkungch
 # Original Code from: Clever Programmer (Youtube Channel)
 
 print(calendar.weekheader(3))
